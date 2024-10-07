@@ -1,7 +1,4 @@
 #include<stdio.h>
-
-int main() {
-#include<stdio.h>
 #include <stdlib.h>
 #define _CRT_SECURE_NO_WARNINGS 1
 
@@ -77,7 +74,3 @@ int main() {
 		return 0;
 
 	}
-
-	
-	return;
-}
